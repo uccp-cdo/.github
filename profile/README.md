@@ -9,6 +9,6 @@
 ## Team Members
 
 * [CK-Gamayon](https://github.com/CK-Gamayon) - Project Manager
-* [egargo](https://github.com/egargo) - Backend, DevOps
+* [egargo](https://github.com/egargo) - Backend, Linux Admin, DevOps
 * [ipetersenpai](https://github.com/ipetersenpai) - Frontend
 * [njpacudan](https://github.com/njpacudan) - System Analyst, Quality Assurance
