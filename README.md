@@ -12,7 +12,7 @@ The UCCP CDO Web Portal Project (Capstone)
 
 * [CK-Gamayon](https://github.com/CK-Gamayon) - Project Manager
 * [egargo](https://github.com/egargo) - Backend, Linux Admin, DevOps
-* [ipetersenpai](https://github.com/ipetersenpai) - Frontend
+* [ipetersenpai](https://github.com/ipetersenpai) - Frontend, UI/UX Desginer
 * [njpacudan](https://github.com/njpacudan) - System Analyst, Quality Assurance
 
 ## Directories
