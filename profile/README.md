@@ -6,7 +6,7 @@ The UCCP CDO Web Portal Project (Capstone)
 
 * [Uptime Tracker](http://139.59.229.253:3001/status/tokei)
 * [REST API](http://139.59.229.253:2122)
-* [Web Portal](http://139.59.229.253:3000)
+* [Web Portal](http://139.59.229.253:4173)
 
 ## Team Members
 
@@ -14,3 +14,4 @@ The UCCP CDO Web Portal Project (Capstone)
 * [egargo](https://github.com/egargo) - Backend, Linux Admin, DevOps
 * [ipetersenpai](https://github.com/ipetersenpai) - Frontend
 * [njpacudan](https://github.com/njpacudan) - System Analyst, Quality Assurance
+* 
