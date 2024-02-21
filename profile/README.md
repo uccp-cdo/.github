@@ -11,7 +11,6 @@ The UCCP CDO Web Portal Project (Capstone)
 ## Project
 
 * [Branding](/branding/)
-* [Bug Tracker](/https://github.com/uccp-cdo/bug-tracker/)
 
 ## Team Members
 
