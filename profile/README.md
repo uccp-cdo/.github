@@ -6,7 +6,7 @@ The UCCP CDO Web Portal Project (Capstone)
 
 * [REST API](http://139.59.229.253:2122)
 * [Web Portal](http://139.59.229.253:4173)
-* [Uptime Tracker](http://139.59.229.253:3001/status/tokei)
+* [Uptime Tracker](http://139.59.229.253:3001/status/all)
 
 ## Project
 
