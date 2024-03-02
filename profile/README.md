@@ -1,6 +1,6 @@
 # The UCCP CDO Web Portal Project
 
-The UCCP CDO Web Portal Project (Capstone)
+The UCCP CDO Web Portal Project
 
 ## Web Portal
 
