@@ -1,16 +1,6 @@
 # The UCCP CDO Web Portal Project
 
-The UCCP CDO Web Portal Project
-
-## Web Portal
-
-* [REST API](http://139.59.229.253:2122)
-* [Web Portal](http://139.59.229.253:4173)
-* [Uptime Tracker](http://139.59.229.253:3001/status/all)
-
-## Project
-
-* [Branding](/branding/)
+[The UCCP CDO Web Portal Project](http://uccpcdo.com)
 
 ## Team Members
 
