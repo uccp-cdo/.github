@@ -1,6 +1,6 @@
 # The UCCP CDO Web Portal Project
 
-[The UCCP CDO Web Portal Project](http://uccpcdo.com)
+[The UCCP CDO Web Portal (uccpcdo.com)](http://uccpcdo.com)
 
 ## Team Members
 
