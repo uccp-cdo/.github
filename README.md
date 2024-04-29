@@ -5,6 +5,6 @@
 ## Team Members
 
 * [CK-Gamayon](https://github.com/CK-Gamayon) - `Project Manager`
-* [egargo](https://github.com/egargo) - `Backend`, `Linux Administrator`, `DevOps`, `Database Designer`
 * [ipetersenpai](https://github.com/ipetersenpai) - `Frontend`, `UI/UX Desginer`
 * [njpacudan](https://github.com/njpacudan) - `System Analyst`, `Quality Assurance`
+* [egargo](https://github.com/egargo) - `Backend`, `Linux Administrator`, `DevOps`, `Database Designer`
